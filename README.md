@@ -19,9 +19,7 @@ A web-based system that helps users log their meals, track daily nutrients, and 
    ```bash
    git clone https://github.com/USERNAME/Nutrition-Tracking.git
 
-# 👩‍💻 Developer
-Rhon Jon G. Romero 
-📫 ejromero294@gmail.com 
-💼 (https://github.com/Git-branches)
+Develop by me 2nd year school projectt
+
 
 
